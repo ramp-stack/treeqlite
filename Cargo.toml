@@ -5,6 +5,7 @@ edition = "2024"
 
 [dependencies]
 hex = "0.4.3"
+regex = "1.12.2"
 rusqlite = "0.38.0"
 serde = "1.0.228"
 serde_ron = {path="../serde_ron"}
